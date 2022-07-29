@@ -53,7 +53,7 @@ nx build api
 
 ### Linting the application
 
-Lint the application using the `go fmt` command.
+Lint the application using the `go vet` command.
 
 ```bash
 nx lint api
